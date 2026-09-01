@@ -1,106 +1,79 @@
-AI Workplace Productivity Portfolio
-Generative AI for Workplace Productivity
-A practical portfolio demonstrating the use of generative AI to improve workplace productivity, organize information, support business analysis tasks, and create structured professional outputs.
-
-
+AI Workplace Productivity Portfolio — Business Analyst
+👩🏻‍💻 About Me
+Hi, I’m Ajwan Faisal, an Information Technology student at Princess Nourah University.
+I am interested in technology, artificial intelligence, and using digital tools to improve productivity and solve workplace problems. Through my academic studies and training experiences, I am developing my technical, analytical, and professional skills.
+This portfolio represents my learning and practical work during the AI Workplace Productivity training.
 ⸻
-
-
-📋 Course Information
-Item Details
-Course Name AI Workplace Productivity Portfolio
-Training Academy SDAIA Academy
-Trainee Ajwan Faisal
-Professional Scenario Business Analyst
-Field Information Technology
-
-
+🎓 Course Information
+Course: AI Workplace Productivity Portfolio
+Training Organization: SDAIA Academy
+Professional Scenario: Business Analyst
+Year: 2026
 ⸻
-
-
-🎯 Project Overview
-This portfolio demonstrates how generative AI can support a Business Analyst in completing workplace tasks more efficiently and effectively.
-The project focuses on using AI to organize information, improve professional communication, analyze business requirements, support decision-making, and increase workplace productivity.
-AI is used as an assistant, while human review, verification, judgment, and final responsibility remain essential.
-
-
+🎯 Portfolio Overview
+This GitHub repository presents my work and learning outcomes from the AI Workplace Productivity training.
+The portfolio demonstrates how Generative AI can be used as a productivity tool in a Business Analyst role to organize information, analyze business needs, improve communication, support decision-making, and create professional outputs.
+The goal is to demonstrate practical and responsible use of AI in a workplace environment.
 ⸻
-
-
-👩🏻‍💻 Selected Professional Scenario
-The selected professional scenario is Business Analyst.
-The role focuses on:
-Analyzing business requirements
-Organizing and summarizing information
-Supporting decision-making
-Preparing professional communication
-Improving workplace workflows
-Identifying tasks, risks, and priorities
-Using AI responsibly to support business activities
-
-
+💼 Professional Scenario — Business Analyst
+As a Business Analyst, I focus on understanding business needs, organizing information, analyzing requirements, and supporting better decision-making.
+Generative AI can help with tasks such as:
+Analyzing and organizing information
+Summarizing business requirements
+Improving professional communication
+Supporting research and analysis
+Creating structured documents
+Identifying priorities and potential risks
+Improving workplace productivity
+AI is used as a supporting tool, while human judgment and verification remain essential.
 ⸻
-
-
 🧠 Skills Demonstrated
-This portfolio demonstrates practical skills in:
-Prompt Engineering
+Through this portfolio, I demonstrate skills in:
 Generative AI
+Prompt Engineering
 Business Analysis
 Information Analysis
-Professional Writing
+Professional Communication
 Task Planning
 Information Verification
-AI-Assisted Decision Support
+AI-Assisted Decision Making
 Responsible AI
 Git & GitHub
-
-
 ⸻
-
-
 📂 Portfolio Contents
-Section Description
-About Me Academic background, interests, and professional profile
-Skills Technical and professional skills
-Projects Academic and practical projects
-Experience Training and practical experiences
-Certificates Courses, certificates, and training
-Contact Professional contact information
-
-
+About Me
+Information about my academic background and professional interests.
+Skills
+My technical and professional skills.
+Projects
+Selected academic and practical projects.
+Experience
+My training and practical experiences.
+Certificates
+Certificates and completed training programs.
+Contact
+Professional contact information.
 ⸻
-
-
 💡 Key Learnings
-Through this portfolio, I learned how to:
-Create clearer and more effective prompts.
-Use AI to organize and transform information.
-Improve professional workplace communication.
-Support business analysis and decision-making tasks.
-Verify AI-generated information before using it.
-Use AI responsibly while maintaining human judgment.
-Organize and document professional work using GitHub.
-
-
+During this training, I learned how to:
+Create effective prompts for different workplace tasks.
+Use Generative AI to organize and transform information.
+Improve professional communication using AI.
+Apply AI to Business Analyst activities.
+Review and verify AI-generated information.
+Use AI responsibly in a professional environment.
+Organize and document my work using GitHub.
 ⸻
-
-
 🛡️ Responsible AI
-Responsible AI is an important part of this portfolio.
-AI-generated content should be reviewed and verified before being used in professional contexts. Confidential, private, or sensitive information should not be shared with AI tools without appropriate authorization.
-Final decisions and accountability remain with the human user.
-
-
+Responsible use of AI is an important part of this portfolio.
+AI-generated information should always be reviewed and verified before being used in professional work. Confidential or sensitive information should not be shared with AI tools without appropriate authorization.
+Human judgment, accountability, and decision-making remain essential.
 ⸻
-
-
-🔗 Repository
-This GitHub repository documents my learning journey, training activities, practical work, and portfolio outputs related to AI and workplace productivity.
-
-
+🔗 Repository Purpose
+This repository documents my learning journey, training activities, practical work, and portfolio outputs related to AI and workplace productivity.
+It demonstrates how AI tools can be integrated into professional workflows to improve efficiency, organization, analysis, and communication.
 ⸻
-
-
+Ajwan Faisal
+Information Technology Student — Princess Nourah University
 AI Workplace Productivity Portfolio — Business Analyst
 © 2026 Ajwan Faisal
