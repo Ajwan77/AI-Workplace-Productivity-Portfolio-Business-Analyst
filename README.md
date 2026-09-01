@@ -1,79 +1,201 @@
-AI Workplace Productivity Portfolio — Business Analyst
-👩🏻‍💻 About Me
-Hi, I’m Ajwan Faisal, an Information Technology student at Princess Nourah University.
-I am interested in technology, artificial intelligence, and using digital tools to improve productivity and solve workplace problems. Through my academic studies and training experiences, I am developing my technical, analytical, and professional skills.
-This portfolio represents my learning and practical work during the AI Workplace Productivity training.
-⸻
-🎓 Course Information
-Course: AI Workplace Productivity Portfolio
-Training Organization: SDAIA Academy
-Professional Scenario: Business Analyst
-Year: 2026
-⸻
-🎯 Portfolio Overview
-This GitHub repository presents my work and learning outcomes from the AI Workplace Productivity training.
-The portfolio demonstrates how Generative AI can be used as a productivity tool in a Business Analyst role to organize information, analyze business needs, improve communication, support decision-making, and create professional outputs.
-The goal is to demonstrate practical and responsible use of AI in a workplace environment.
-⸻
-💼 Professional Scenario — Business Analyst
-As a Business Analyst, I focus on understanding business needs, organizing information, analyzing requirements, and supporting better decision-making.
-Generative AI can help with tasks such as:
-Analyzing and organizing information
-Summarizing business requirements
-Improving professional communication
-Supporting research and analysis
-Creating structured documents
-Identifying priorities and potential risks
-Improving workplace productivity
-AI is used as a supporting tool, while human judgment and verification remain essential.
-⸻
-🧠 Skills Demonstrated
-Through this portfolio, I demonstrate skills in:
-Generative AI
-Prompt Engineering
-Business Analysis
-Information Analysis
-Professional Communication
-Task Planning
-Information Verification
-AI-Assisted Decision Making
-Responsible AI
-Git & GitHub
-⸻
-📂 Portfolio Contents
-About Me
-Information about my academic background and professional interests.
-Skills
-My technical and professional skills.
-Projects
-Selected academic and practical projects.
-Experience
-My training and practical experiences.
-Certificates
-Certificates and completed training programs.
-Contact
-Professional contact information.
-⸻
-💡 Key Learnings
-During this training, I learned how to:
-Create effective prompts for different workplace tasks.
-Use Generative AI to organize and transform information.
-Improve professional communication using AI.
-Apply AI to Business Analyst activities.
-Review and verify AI-generated information.
-Use AI responsibly in a professional environment.
-Organize and document my work using GitHub.
-⸻
-🛡️ Responsible AI
-Responsible use of AI is an important part of this portfolio.
-AI-generated information should always be reviewed and verified before being used in professional work. Confidential or sensitive information should not be shared with AI tools without appropriate authorization.
-Human judgment, accountability, and decision-making remain essential.
-⸻
-🔗 Repository Purpose
-This repository documents my learning journey, training activities, practical work, and portfolio outputs related to AI and workplace productivity.
-It demonstrates how AI tools can be integrated into professional workflows to improve efficiency, organization, analysis, and communication.
-⸻
-Ajwan Faisal
-Information Technology Student — Princess Nourah University
-AI Workplace Productivity Portfolio — Business Analyst
-© 2026 Ajwan Faisal
+<title>Ajwan Faisal | AI Workplace Productivity Portfolio</title>
+
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background: #f4f6f8;
+        color: #222;
+    }
+
+    header {
+        background: #1f1f1f;
+        color: white;
+        text-align: center;
+        padding: 80px 20px;
+    }
+
+    header h1 {
+        margin: 0;
+        font-size: 46px;
+    }
+
+    header h2 {
+        font-size: 22px;
+        font-weight: normal;
+        margin: 15px 0;
+    }
+
+    header p {
+        color: #ccc;
+        font-size: 16px;
+    }
+
+    .container {
+        max-width: 1000px;
+        margin: 40px auto;
+        padding: 0 20px;
+    }
+
+    section {
+        background: white;
+        padding: 35px;
+        margin-bottom: 25px;
+        border-radius: 12px;
+        box-shadow: 0 3px 12px rgba(0, 0, 0, 0.06);
+    }
+
+    h3 {
+        font-size: 24px;
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+
+    .course {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+    }
+
+    .info {
+        background: #f4f6f8;
+        padding: 18px;
+        border-radius: 8px;
+    }
+
+    .info strong {
+        display: block;
+        margin-bottom: 6px;
+    }
+
+    .skills {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+
+    .skill {
+        background: #eeeeee;
+        padding: 10px 15px;
+        border-radius: 20px;
+        font-size: 14px;
+    }
+
+    .links {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 15px;
+    }
+
+    .links a {
+        display: block;
+        padding: 18px;
+        background: #f4f6f8;
+        color: #222;
+        text-decoration: none;
+        border-radius: 8px;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .links a:hover {
+        background: #e5e5e5;
+    }
+
+    footer {
+        text-align: center;
+        padding: 35px;
+        color: #777;
+        font-size: 14px;
+    }
+
+    @media (max-width: 700px) {
+        header h1 {
+            font-size: 34px;
+        }
+
+        .course,
+        .links {
+            grid-template-columns: 1fr;
+        }
+
+        section {
+            padding: 25px;
+        }
+    }
+</style>
+<section>
+    <h3>👩🏻‍💻 About Me</h3>
+
+    <p>
+        I am an Information Technology student at
+        <strong>Princess Nourah University</strong>, interested in
+        Artificial Intelligence, Business Analysis, and workplace productivity.
+    </p>
+
+    <p>
+        This portfolio showcases my learning journey and practical work
+        during the AI Workplace Productivity training.
+    </p>
+</section>
+
+<section>
+    <h3>🎓 Training</h3>
+
+    <div class="course">
+
+        <div class="info">
+            <strong>Course</strong>
+            AI Workplace Productivity Portfolio
+        </div>
+
+        <div class="info">
+            <strong>Training Organization</strong>
+            SDAIA Academy
+        </div>
+
+        <div class="info">
+            <strong>Professional Scenario</strong>
+            Business Analyst
+        </div>
+
+        <div class="info">
+            <strong>Year</strong>
+            2026
+        </div>
+
+    </div>
+</section>
+
+<section>
+    <h3>💼 Professional Scenario</h3>
+
+    <p>
+        <strong>Business Analyst</strong>
+    </p>
+
+    <p>
+        This portfolio explores how Generative AI can support
+        business analysis tasks, including information organization,
+        analysis, communication, decision-making, and workplace productivity.
+    </p>
+</section>
+
+<section>
+    <h3>🧠 Skills</h3>
+
+    <div class="skills">
+
+        <span class="skill">Generative AI</span>
+        <span class="skill">Prompt Engineering</span>
+        <span class="skill">Business Analysis</span>
+        <span class="skill">Information Analysis</span>
+        <span class="skill">Data Analysis</span>
+        <span class="skill">Responsible AI</span>
+        <span class="skill">SQL</span>
+        <span class="skill">Java</span>
+        <span class="skill">Networking</span>
