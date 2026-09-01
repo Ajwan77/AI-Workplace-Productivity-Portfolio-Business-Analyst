@@ -31,7 +31,17 @@ View my training programs, certificates, and learning experiences.
 ## 💡 Experience
 
 Learn about my academic and practical experience.
-
+<section>
+    <h2>Course</h2>
+    <h3>AI Workplace Productivity Portfolio</h3>
+    <p>
+        A GitHub repository organizing, improving, and documenting your training
+        journey in AI and workplace productivity.
+    </p>
+    <p>
+        <strong>Academy:</strong> @SDAIA Academy
+    </p>
+</section>
 [View Experience](experience.md)
 
 ## 📩 Contact
