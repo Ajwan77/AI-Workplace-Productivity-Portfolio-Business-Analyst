@@ -1,15 +1,32 @@
 Skills
-Technical Skills
+💻 Technical Skills
+Generative AI
+Prompt Engineering
+Git & GitHub
 SQL
 Java
-Git & GitHub
 Cisco Packet Tracer
 Oracle
-Network Fundamentals
-Business & Productivity Skills
+📊 Business & Analytical Skills
 Business Analysis
+Information Analysis
+Requirements Analysis
 Problem Solving
-Data Analysis
-AI Tools
-Workplace Productivity
-Team Collaboration
+Decision Support
+Task Planning
+Information Organization
+🤖 AI & Productivity Skills
+AI-Assisted Research
+AI-Assisted Content Creation
+Professional Communication
+Information Summarization
+Prompt Optimization
+AI Output Review and Verification
+Responsible AI Use
+🤝 Professional Skills
+Communication
+Teamwork
+Organization
+Time Management
+Critical Thinking
+Adaptability
