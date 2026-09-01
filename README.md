@@ -1,98 +1,98 @@
-‏# AI Workplace Productivity Portfolio — Business Analyst
+‏## AI Workplace Productivity Portfolio — Business Analyst
 
-‏<div align="center">
+<div align="center">
 
-‏### Generative AI for Workplace Productivity
+### Generative AI for Workplace Productivity
 
-‏**SDAIA Academy** • **Business Analyst** • **2026**
+**SDAIA Academy** • **Business Analyst** • **2026**
 
-‏</div>
+</div>
 
 ---
 
-‏## 📋 Course Information
+## 📋 Course Information
 
-‏| Item | Details |
+| Item | Details |
 |---|---|
-‏| **Course** | AI Workplace Productivity Portfolio |
-‏| **Trainee** | **Ajwan Faisal** |
-‏| **University** | Princess Nourah University |
-‏| **Major** | Information Technology |
-‏| **Training Organization** | SDAIA Academy |
-‏| **Professional Scenario** | Business Analyst |
-‏| **Year** | 2026 |
+| **Course** | AI Workplace Productivity Portfolio |
+| **Trainee** | **Ajwan Faisal** |
+| **University** | Princess Nourah University |
+| **Major** | Information Technology |
+| **Training Organization** | SDAIA Academy |
+| **Professional Scenario** | Business Analyst |
+| **Year** | 2026 |
 
 ---
 
-‏## 🎯 Project Overview
+## 🎯 Project Overview
 
-‏This repository contains my **AI Workplace Productivity Portfolio**, developed as part of my training experience.
+This repository contains my **AI Workplace Productivity Portfolio**, developed as part of my training experience.
 
-‏The portfolio demonstrates how **Generative AI** can be used to improve workplace productivity, organize information, support business analysis tasks, and create effective professional outputs.
-
----
-
-‏## 👩🏻‍💻 Professional Scenario
-
-‏### Business Analyst
-
-‏As a Business Analyst, I explore how AI can support:
-
-‏- Business and information analysis
-‏- Organizing and summarizing information
-‏- Professional communication
-‏- Decision-making
-‏- Task planning and prioritization
-‏- Workplace productivity
+The portfolio demonstrates how **Generative AI** can be used to improve workplace productivity, organize information, support business analysis tasks, and create effective professional outputs.
 
 ---
 
-‏## 🧠 Skills & Tools
+## 👩🏻‍💻 Professional Scenario
 
-‏- Artificial Intelligence
-‏- Generative AI
-‏- Prompt Engineering
-‏- Business Analysis
-‏- Data Analysis
-‏- Information Analysis
-‏- Git & GitHub
-‏- Responsible AI
+### Business Analyst
+
+As a Business Analyst, I explore how AI can support:
+
+- Business and information analysis
+- Organizing and summarizing information
+- Professional communication
+- Decision-making
+- Task planning and prioritization
+- Workplace productivity
 
 ---
 
-‏## 📂 Portfolio Contents
+## 🧠 Skills & Tools
 
-‏| Section | Description |
+- Artificial Intelligence
+- Generative AI
+- Prompt Engineering
+- Business Analysis
+- Data Analysis
+- Information Analysis
+- Git & GitHub
+- Responsible AI
+
+---
+
+## 📂 Portfolio Contents
+
+| Section | Description |
 |---|---|
-‏| **About Me** | Personal and academic background |
-‏| **Skills** | Technical and professional skills |
-‏| **Projects** | Selected academic and practical projects |
-‏| **Experience** | Training and professional experience |
-‏| **Certificates & Training** | Certifications and training programs |
-‏| **Contact** | Contact and professional information |
+| **About Me** | Personal and academic background |
+| **Skills** | Technical and professional skills |
+| **Projects** | Selected academic and practical projects |
+| **Experience** | Training and professional experience |
+| **Certificates & Training** | Certifications and training programs |
+| **Contact** | Contact and professional information |
 
 ---
 
-‏## ✅ Key Learning Outcomes
+## ✅ Key Learning Outcomes
 
-‏Through this training, I developed practical skills in using **AI to improve workplace productivity**, organize and analyze information, create effective prompts, and support **Business Analyst activities**.
-
----
-
-‏## 🛡️ Responsible AI
-
-‏AI is used as a supporting tool throughout this portfolio. AI-generated information should be **reviewed and verified**, while human judgment and accountability remain essential.
+Through this training, I developed practical skills in using **AI to improve workplace productivity**, organize and analyze information, create effective prompts, and support **Business Analyst activities**.
 
 ---
 
-‏<div align="center">
+## 🛡️ Responsible AI
 
-‏### Ajwan Faisal
+AI is used as a supporting tool throughout this portfolio. AI-generated information should be **reviewed and verified**, while human judgment and accountability remain essential.
 
-‏**Information Technology Student — Princess Nourah University**
+---
 
-‏**AI Workplace Productivity Portfolio — Business Analyst**
+<div align="center">
 
-‏© 2026 Ajwan Faisal
+### Ajwan Faisal
 
-‏</div>
+**Information Technology Student — Princess Nourah University**
+
+**AI Workplace Productivity Portfolio — Business Analyst**
+
+© 2026 Ajwan Faisal
+
+</div>
